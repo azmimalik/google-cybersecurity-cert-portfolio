@@ -19,18 +19,20 @@ This repository includes key hands-on projects completed as part of the **Google
 7. **Completed Incident Handler Journal**  
    Recorded an incident response process including detection, analysis, containment, and recovery phases for a simulated cyber event.
 
-8. **File Permission in Linux**  
+   https://github.com/azmimalik/google-cybersecurity-cert-portfolio/blob/edfcea0a51d9b9112d16022d8ef9bf10efb5ff43/Completed%20incident%20handler's%20journal.pdf
+
+9. **File Permission in Linux**  
    Modified file access settings using `chmod`, `chown`, and `ls -l`, reinforcing secure system administration practices in a Linux environment.
 
-9. **Professional Statement**
-10. https://github.com/azmimalik/google-cybersecurity-cert-portfolio/blob/8fd0179fbf3963b3869f02ae8f5ba7aff9b83862/Professional%20statement.pdf
-11. 
+10. **Professional Statement**
+11. https://github.com/azmimalik/google-cybersecurity-cert-portfolio/blob/8fd0179fbf3963b3869f02ae8f5ba7aff9b83862/Professional%20statement.pdf
+12. 
    A reflective statement summarizing cybersecurity competencies, career goals, and commitment to ethical and secure IT practices.
 
-12. **Vulnerability Assessment Report**  
+13. **Vulnerability Assessment Report**  
    Analyzed a small business setup for potential vulnerabilities and documented mitigation strategies to enhance security posture.
 
-13. **Conducting a Security Audit**  
+14. **Conducting a Security Audit**  
    Conducted a full security audit based on provided data for a fictional company, identifying compliance gaps and suggesting improvements.
 
 ## Format
