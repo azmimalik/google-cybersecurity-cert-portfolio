@@ -13,6 +13,7 @@ This repository includes key hands-on projects completed as part of the **Google
 
 5. **Apply Filters to SQL Queries**  
    Executed SQL queries using `WHERE`, `AND`, `OR`, and `NOT` to retrieve filtered results—reinforcing skills in data analysis and confidentiality.
+   
    https://github.com/azmimalik/google-cybersecurity-cert-portfolio/blob/1481753d3bd6d2ed7f21fe6e7e725e16aaf78b01/Apply%20filters%20to%20SQL%20queries.pdf
 
 7. **Completed Incident Handler Journal**  
