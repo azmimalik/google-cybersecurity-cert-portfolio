@@ -21,12 +21,13 @@ This repository includes key hands-on projects completed as part of the **Google
 
 6. **Professional Statement**
 7. https://github.com/azmimalik/google-cybersecurity-cert-portfolio/blob/8fd0179fbf3963b3869f02ae8f5ba7aff9b83862/Professional%20statement.pdf
+8. 
    A reflective statement summarizing cybersecurity competencies, career goals, and commitment to ethical and secure IT practices.
 
-8. **Vulnerability Assessment Report**  
+9. **Vulnerability Assessment Report**  
    Analyzed a small business setup for potential vulnerabilities and documented mitigation strategies to enhance security posture.
 
-9. **Conducting a Security Audit**  
+10. **Conducting a Security Audit**  
    Conducted a full security audit based on provided data for a fictional company, identifying compliance gaps and suggesting improvements.
 
 ## Format
