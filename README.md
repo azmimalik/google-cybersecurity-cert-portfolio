@@ -13,22 +13,23 @@ This repository includes key hands-on projects completed as part of the **Google
 
 5. **Apply Filters to SQL Queries**  
    Executed SQL queries using `WHERE`, `AND`, `OR`, and `NOT` to retrieve filtered results—reinforcing skills in data analysis and confidentiality.
+   https://github.com/azmimalik/google-cybersecurity-cert-portfolio/blob/1481753d3bd6d2ed7f21fe6e7e725e16aaf78b01/Apply%20filters%20to%20SQL%20queries.pdf
 
-6. **Completed Incident Handler Journal**  
+7. **Completed Incident Handler Journal**  
    Recorded an incident response process including detection, analysis, containment, and recovery phases for a simulated cyber event.
 
-7. **File Permission in Linux**  
+8. **File Permission in Linux**  
    Modified file access settings using `chmod`, `chown`, and `ls -l`, reinforcing secure system administration practices in a Linux environment.
 
-8. **Professional Statement**
-9. https://github.com/azmimalik/google-cybersecurity-cert-portfolio/blob/8fd0179fbf3963b3869f02ae8f5ba7aff9b83862/Professional%20statement.pdf
-10. 
+9. **Professional Statement**
+10. https://github.com/azmimalik/google-cybersecurity-cert-portfolio/blob/8fd0179fbf3963b3869f02ae8f5ba7aff9b83862/Professional%20statement.pdf
+11. 
    A reflective statement summarizing cybersecurity competencies, career goals, and commitment to ethical and secure IT practices.
 
-11. **Vulnerability Assessment Report**  
+12. **Vulnerability Assessment Report**  
    Analyzed a small business setup for potential vulnerabilities and documented mitigation strategies to enhance security posture.
 
-12. **Conducting a Security Audit**  
+13. **Conducting a Security Audit**  
    Conducted a full security audit based on provided data for a fictional company, identifying compliance gaps and suggesting improvements.
 
 ## Format
