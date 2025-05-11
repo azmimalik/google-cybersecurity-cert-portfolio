@@ -7,8 +7,8 @@ This repository includes key hands-on projects completed as part of the **Google
 ## Projects Included
 
 1. **Update a File Through a Python Algorithm**
-2. https://raw.githubusercontent.com/azmimalik/google-cybersecurity-cert-portfolio/refs/heads/main/README.md
-   Wrote a Python script to modify a file's content automatically—demonstrating automation and scripting basics in cybersecurity.
+   
+ 2.   Wrote a Python script to modify a file's content automatically—demonstrating automation and scripting basics in cybersecurity.
 
 3. **Apply Filters to SQL Queries**  
    Executed SQL queries using `WHERE`, `AND`, `OR`, and `NOT` to retrieve filtered results—reinforcing skills in data analysis and confidentiality.
