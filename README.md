@@ -7,7 +7,6 @@ This repository includes key hands-on projects completed as part of the **Google
 ## Projects Included
 
 1. **Update a File Through a Python Algorithm**
-2. 
 3. https://github.com/azmimalik/google-cybersecurity-cert-portfolio/blob/64520e863a850b2e2de48edf7be41a18a6bbd030/-%20Update%20a%20file%20through%20a%20Python%20algorithm.pdf
    
  4.   Wrote a Python script to modify a file's content automatically—demonstrating automation and scripting basics in cybersecurity.
