@@ -23,6 +23,7 @@ This repository includes key hands-on projects completed as part of the **Google
 
 9. **File Permission in Linux**  
    Modified file access settings using `chmod`, `chown`, and `ls -l`, reinforcing secure system administration practices in a Linux environment.
+   
    https://github.com/azmimalik/google-cybersecurity-cert-portfolio/blob/6e00734183754dd6389685671831cca67179863b/File%20permissions%20in%20Linux.pdf
    
 11. **Professional Statement**
