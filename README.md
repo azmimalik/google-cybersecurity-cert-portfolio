@@ -34,7 +34,10 @@ This repository includes key hands-on projects completed as part of the **Google
 14. **Vulnerability Assessment Report**  
    Analyzed a small business setup for potential vulnerabilities and documented mitigation strategies to enhance security posture.
 
-15. **Conducting a Security Audit**  
+https://github.com/azmimalik/google-cybersecurity-cert-portfolio/blob/20859756dc1ca91d622078d90b0077b06951daae/Vulnerability%20assessment%20report.pdf
+
+
+16. **Conducting a Security Audit**  
    Conducted a full security audit based on provided data for a fictional company, identifying compliance gaps and suggesting improvements.
 
 ## Format
