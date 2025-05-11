@@ -40,6 +40,9 @@ https://github.com/azmimalik/google-cybersecurity-cert-portfolio/blob/20859756dc
 16. **Conducting a Security Audit**  
    Conducted a full security audit based on provided data for a fictional company, identifying compliance gaps and suggesting improvements.
 
+https://github.com/azmimalik/google-cybersecurity-cert-portfolio/blob/7fe4591667fb7fa5906015ae9a108f4276c70578/conducting%20a%20security%20audit.pdf
+
+
 ## Format
 
 All documents are included in **PDF format** to maintain consistency and presentation quality for employers, mentors, or peer reviewers.
