@@ -23,16 +23,17 @@ This repository includes key hands-on projects completed as part of the **Google
 
 9. **File Permission in Linux**  
    Modified file access settings using `chmod`, `chown`, and `ls -l`, reinforcing secure system administration practices in a Linux environment.
-
-10. **Professional Statement**
-11. https://github.com/azmimalik/google-cybersecurity-cert-portfolio/blob/8fd0179fbf3963b3869f02ae8f5ba7aff9b83862/Professional%20statement.pdf
-12. 
+   https://github.com/azmimalik/google-cybersecurity-cert-portfolio/blob/6e00734183754dd6389685671831cca67179863b/File%20permissions%20in%20Linux.pdf
+   
+11. **Professional Statement**
+12. https://github.com/azmimalik/google-cybersecurity-cert-portfolio/blob/8fd0179fbf3963b3869f02ae8f5ba7aff9b83862/Professional%20statement.pdf
+13. 
    A reflective statement summarizing cybersecurity competencies, career goals, and commitment to ethical and secure IT practices.
 
-13. **Vulnerability Assessment Report**  
+14. **Vulnerability Assessment Report**  
    Analyzed a small business setup for potential vulnerabilities and documented mitigation strategies to enhance security posture.
 
-14. **Conducting a Security Audit**  
+15. **Conducting a Security Audit**  
    Conducted a full security audit based on provided data for a fictional company, identifying compliance gaps and suggesting improvements.
 
 ## Format
